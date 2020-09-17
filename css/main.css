@@ -266,7 +266,7 @@ h4 {
 #about .col-md-6 .box {
 	width: 260px;
 	height: 230px;
-	outline: dashed 0.5px;
+	outline: dashed 1px;
 	outline-color: #b4a9a9;
 	margin-left: 50px;
 	position: absolute;
